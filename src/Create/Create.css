@@ -1,0 +1,17 @@
+.create-btn {
+    float: right;
+    margin-left: 0.5rem;
+}
+
+.create-inputs {
+    width: 50%;
+    display: inline-block;
+}
+
+.priority {
+    float: left;
+}
+
+.label-align {
+    float: left;
+}

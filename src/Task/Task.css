@@ -1,0 +1,26 @@
+.card {
+    margin: 4px;
+    width: 13rem;
+}
+
+.alert {
+    padding: 0;
+    margin-top: 0;
+
+}
+
+.trashIcon {
+    float: right;
+}
+
+.upBtn {
+    float: left;
+}
+
+.left-right-Btn {
+    float: right;
+}
+
+.up-down-btn {
+    float: left
+}
